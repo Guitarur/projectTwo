@@ -1,0 +1,1 @@
+!function(e,i){function n(){}n.prototype={islike:function(i){i.isLike?(i.isLike=!1,e(".like").removeClass("liking")):(i.isLike=!0,e(".like").addClass("liking"))}},i.like=new n}(window.Zepto,window.player||(window.player={}));
